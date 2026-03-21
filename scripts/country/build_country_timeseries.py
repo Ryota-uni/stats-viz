@@ -59,8 +59,24 @@ def build_chart(zmb, column: str, title: str, y_label: str, output: str) -> None
 
     fig.update_layout(
         template="plotly_white",
+        paper_bgcolor="#0f172a",
+        plot_bgcolor="#0f172a",
+        font=dict(color="#e2e8f0"),
         title_x=0.5,
         hovermode="x unified",
+        xaxis=dict(
+            gridcolor="#334155",
+            zerolinecolor="#334155",
+        ),
+        yaxis=dict(
+            gridcolor="#334155",
+            zerolinecolor="#334155",
+        ),
+    )
+
+    fig.update_traces(
+        line=dict(color="#f43f5e", width=3),
+        marker=dict(color="#f43f5e", size=6),
     )
 
     fig.write_html(

@@ -7,31 +7,31 @@ from scripts.common.utils import load_country_panel, get_zambia_country_panel
 CHART_SPECS = [
     {
         "column": "crop_land_ha",
-        "title": "Zambia: Crop land area over time",
-        "y_label": "Crop land (ha)",
+        "title": "Crop land area",
+        "y_label": "Crop land (1000 ha)",
         "output": "zambia_crop_land.html",
     },
     {
         "column": "share_irrigated_percent",
-        "title": "Zambia: Share of irrigated agricultural land over time",
+        "title": "Share of irrigated agricultural",
         "y_label": "Irrigated share (%)",
         "output": "zambia_irrigation_share.html",
     },
     {
         "column": "agri_labor",
-        "title": "Zambia: Agricultural labor over time",
+        "title": "Agricultural labor",
         "y_label": "Agricultural labor",
         "output": "zambia_agri_labor.html",
     },
     {
         "column": "fertilizer_total_ton",
-        "title": "Zambia: Fertilizer use over time",
+        "title": "Fertilizer use",
         "y_label": "Fertilizer total (ton)",
         "output": "zambia_fertilizer_total.html",
     },
     {
         "column": "net_capital_2015",
-        "title": "Zambia: Net capital stock over time",
+        "title": "Net capital stock",
         "y_label": "Net capital (2015 USD)",
         "output": "zambia_net_capital.html",
     },
@@ -75,8 +75,8 @@ def build_chart(zmb, column: str, title: str, y_label: str, output: str) -> None
     )
 
     fig.update_traces(
-        line=dict(color="#f43f5e", width=3),
-        marker=dict(color="#f43f5e", size=6),
+        line=dict(color="crimson", width=3),
+        marker=dict(color="crimson", size=6),
     )
 
     fig.write_html(

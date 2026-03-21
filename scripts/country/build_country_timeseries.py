@@ -59,8 +59,8 @@ def build_chart(zmb, column: str, title: str, y_label: str, output: str) -> None
 
     fig.update_layout(
         template="plotly_white",
-        paper_bgcolor="#0f172a",
-        plot_bgcolor="#0f172a",
+        paper_bgcolor="navy",
+        plot_bgcolor="navy",
         font=dict(color="#e2e8f0"),
         title_x=0.5,
         hovermode="x unified",

@@ -1,15 +1,18 @@
 [project]
-name = "stats-viz"
+name = "fao-stat"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = ">=3.14"
 dependencies = [
-    "altair<5",
     "matplotlib>=3.10.8",
-    "pandas>=3.0.1",
+    "numpy>=2.4.3",
+    "pandas>=2.3.3",
     "plotly>=6.6.0",
     "pyarrow>=23.0.1",
+    "requests>=2.32.5",
     "seaborn>=0.13.2",
-    "streamlit>=1.19.0",
+    "streamlit>=1.55.0",
+    "streamlit-navigation-bar>=3.3.0",
+    "streamlit-on-hover-tabs>=1.0.1",
 ]

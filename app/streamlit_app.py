@@ -2,6 +2,7 @@ from pathlib import Path
 
 import pandas as pd
 import plotly.express as px
+import plotly.graph_objects as go
 import streamlit as st
 
 
@@ -12,24 +13,24 @@ TARGET_ISO3 = "ZMB"
 
 CHART_SPECS = {
     "crop_land_ha": {
-        "label": "Crop land (ha)",
-        "title": "Crop land area over time",
+        "label": "Crop land (1000 ha)",
+        "title": "Crop land area",
     },
     "share_irrigated_percent": {
         "label": "Irrigated share (%)",
-        "title": "Share of irrigated agricultural land over time",
+        "title": "Share of irrigated agricultural land",
     },
     "agri_labor": {
         "label": "Agricultural labor",
-        "title": "Agricultural labor over time",
+        "title": "Agricultural labor",
     },
     "fertilizer_total_ton": {
         "label": "Fertilizer total (ton)",
-        "title": "Fertilizer use over time",
+        "title": "Fertilizer use",
     },
     "net_capital_2015": {
         "label": "Net capital (2015 USD)",
-        "title": "Net capital stock over time",
+        "title": "Net capital stock",
     },
 }
 
@@ -61,18 +62,39 @@ def get_country_data(df: pd.DataFrame, iso3: str) -> pd.DataFrame:
 
 
 def make_figure(df: pd.DataFrame, column: str, title: str, y_label: str):
-    chart_df = df[["year", column]].dropna().copy()
+    chart_df = df[["year", column]].copy()
 
-    fig = px.line(
-        chart_df,
-        x="year",
-        y=column,
-        markers=True,
-        title=title,
-        labels={"year": "Year", column: y_label},
+    chart_df["year"] = pd.to_numeric(chart_df["year"], errors="coerce")
+    chart_df[column] = pd.to_numeric(chart_df[column], errors="coerce")
+    chart_df = (
+        chart_df
+        .dropna(subset=["year", column])
+        .sort_values("year")
+        .reset_index(drop=True)
+    )
+
+    st.write(f"{column}: {len(chart_df)} rows")
+    st.write(chart_df.head())
+
+    if chart_df.empty:
+        st.warning(f"No plottable data for {column}")
+        return None
+
+    fig = go.Figure()
+
+    fig.add_trace(
+        go.Scatter(
+            x=chart_df["year"].tolist(),
+            y=chart_df[column].tolist(),
+            mode="lines+markers",
+            line=dict(color="#f43f5e", width=3),
+            marker=dict(color="#f43f5e", size=7),
+            name=column,
+        )
     )
 
     fig.update_layout(
+        title=title,
         paper_bgcolor="#0f172a",
         plot_bgcolor="#0f172a",
         font=dict(color="#e2e8f0"),
@@ -80,19 +102,26 @@ def make_figure(df: pd.DataFrame, column: str, title: str, y_label: str):
         hovermode="x unified",
         margin=dict(l=40, r=20, t=60, b=40),
         xaxis=dict(
+            title="Year",
+            showgrid=True,
             gridcolor="#334155",
-            zerolinecolor="#334155",
+            zeroline=False,
+            showline=True,
+            linecolor="#94a3b8",
+            tickfont=dict(color="#e2e8f0"),
         ),
         yaxis=dict(
+            title=y_label,
+            showgrid=True,
             gridcolor="#334155",
-            zerolinecolor="#334155",
+            zeroline=False,
+            showline=True,
+            linecolor="#94a3b8",
+            tickfont=dict(color="#e2e8f0"),
         ),
+        showlegend=False,
     )
 
-    fig.update_traces(
-        line=dict(color="#f43f5e", width=3),
-        marker=dict(color="#f43f5e", size=6),
-    )
     return fig
 
 
@@ -138,28 +167,10 @@ for i, column in enumerate(available_chart_columns):
     fig = make_figure(
         zmb,
         column=column,
-        title=f"Zambia: {spec['title']}",
+        title=f"{spec['title']}",
         y_label=spec["label"],
     )
     if i % 2 == 0:
-        col1.plotly_chart(fig, use_container_width=True)
+        col1.plotly_chart(fig, use_container_width=True, theme=None)
     else:
-        col2.plotly_chart(fig, use_container_width=True)
-
-st.subheader("Single chart focus")
-
-selected_column = st.selectbox(
-    "Select an indicator",
-    available_chart_columns,
-    format_func=lambda x: CHART_SPECS[x]["label"],
-)
-
-selected_spec = CHART_SPECS[selected_column]
-selected_fig = make_figure(
-    zmb,
-    column=selected_column,
-    title=f"Zambia: {selected_spec['title']}",
-    y_label=selected_spec["label"],
-)
-
-st.plotly_chart(selected_fig, use_container_width=True)
+        col2.plotly_chart(fig, use_container_width=True, theme=None)

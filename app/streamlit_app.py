@@ -244,7 +244,7 @@ country_options = get_country_options(df)
 # Default country index
 default_index = 0
 if DEFAULT_ISO3 in country_options["iso3"].values:
-    default_index = country_options.index[country_options["iso3"] == DEFAULT_ISO3][0]
+    default_index = int(country_options.index[country_options["iso3"] == DEFAULT_ISO3][0])
 
 # Year range for sidebar slider
 year_series = df["year"].dropna()

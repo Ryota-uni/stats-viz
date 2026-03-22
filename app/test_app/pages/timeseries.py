@@ -80,7 +80,7 @@ if selection == 2:
         title="GDP per Capita Growth Rate (%)",
     )
 
-    fig.update_yaxes(title="Growth rate (%)")
+    fig.update_yaxes(title="Growth rate (%)", linecolor="white", gridcolor="#E8EFE6")
 
     fig.update_traces(
         hovertemplate=
@@ -101,9 +101,9 @@ else:
     )
 
     if selection == 1:
-        fig.update_yaxes(type="log", title="GDP per capita (log scale)")
+        fig.update_yaxes(type="log", title="GDP per capita (log scale)", linecolor="white", gridcolor="#E8EFE6")
     else:
-        fig.update_yaxes(type="linear", title="GDP per capita (2015 USD)")
+        fig.update_yaxes(type="linear", title="GDP per capita (2015 USD)", linecolor="white", gridcolor="#E8EFE6", gridwidth=1)
 
     fig.update_traces(
         hovertemplate=
@@ -113,6 +113,6 @@ else:
             "<extra></extra>"
     )
 
-fig.update_xaxes(title="Year")
+fig.update_xaxes(title="Year", linecolor="white")
 
 st.plotly_chart(fig, use_container_width=True)

@@ -66,14 +66,18 @@ selected_year_range = st.sidebar.slider(
 # Page navigation
 # -----------------------------
 pages = {
-    "Data Table": [
-        st.Page("pages/data_table.py", title="Country Table", icon="📋"),
+    "Home": [
+        st.Page("pages/home.py", title="Home"),
     ],
-    "Time Series": [
-        st.Page("pages/timeseries.py", title="Time Series", icon="📈"),
+    "Data Table": [
+        st.Page("pages/data_table.py", title="Country Table"),
+    ],
+    "Graph": [
+        st.Page("pages/cross_section.py", title="Cross Section"),
+        st.Page("pages/timeseries.py", title="Time Series"),
     ],
     "Debug": [
-        st.Page("pages/debug.py", title="Debug Page", icon="🐞"),
+        st.Page("pages/debug.py", title="Debug Page"),
     ],
 }
 

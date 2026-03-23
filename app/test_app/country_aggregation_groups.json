@@ -1,0 +1,3146 @@
+{
+  "country_group_info": {
+    "ABW": {
+      "intermediate_region": "Caribbean",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "AFG": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "Southern Asia",
+      "subregion": "Southern Asia"
+    },
+    "AGO": {
+      "intermediate_region": "Middle Africa",
+      "region": "Africa",
+      "sub_region": "Middle Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "AIA": {
+      "intermediate_region": "Caribbean",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "ALA": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Northern Europe",
+      "subregion": "Northern Europe"
+    },
+    "ALB": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Southern Europe",
+      "subregion": "Southern Europe"
+    },
+    "AND": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Southern Europe",
+      "subregion": "Southern Europe"
+    },
+    "ANT": {
+      "intermediate_region": "Caribbean",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "ARE": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "Western Asia",
+      "subregion": "Western Asia"
+    },
+    "ARG": {
+      "intermediate_region": "South America",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "ARM": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "Western Asia",
+      "subregion": "Western Asia"
+    },
+    "ASM": {
+      "intermediate_region": null,
+      "region": "Oceania",
+      "sub_region": "Polynesia",
+      "subregion": "Polynesia"
+    },
+    "ATF": {
+      "intermediate_region": "Eastern Africa",
+      "region": "Africa",
+      "sub_region": "Eastern Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "ATG": {
+      "intermediate_region": "Caribbean",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "AUS": {
+      "intermediate_region": null,
+      "region": "Oceania",
+      "sub_region": "Australia and New Zealand",
+      "subregion": "Australia and New Zealand"
+    },
+    "AUT": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Western Europe",
+      "subregion": "Western Europe"
+    },
+    "AZE": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "Western Asia",
+      "subregion": "Western Asia"
+    },
+    "BDI": {
+      "intermediate_region": "Eastern Africa",
+      "region": "Africa",
+      "sub_region": "Eastern Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "BEL": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Western Europe",
+      "subregion": "Western Europe"
+    },
+    "BEN": {
+      "intermediate_region": "Western Africa",
+      "region": "Africa",
+      "sub_region": "Western Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "BES": {
+      "intermediate_region": "Caribbean",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "BFA": {
+      "intermediate_region": "Western Africa",
+      "region": "Africa",
+      "sub_region": "Western Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "BGD": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "Southern Asia",
+      "subregion": "Southern Asia"
+    },
+    "BGR": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Eastern Europe",
+      "subregion": "Eastern Europe"
+    },
+    "BHR": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "Western Asia",
+      "subregion": "Western Asia"
+    },
+    "BHS": {
+      "intermediate_region": "Caribbean",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "BIH": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Southern Europe",
+      "subregion": "Southern Europe"
+    },
+    "BLM": {
+      "intermediate_region": "Caribbean",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "BLR": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Eastern Europe",
+      "subregion": "Eastern Europe"
+    },
+    "BLZ": {
+      "intermediate_region": "Central America",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "BMU": {
+      "intermediate_region": null,
+      "region": "Americas",
+      "sub_region": "Northern America",
+      "subregion": "Northern America"
+    },
+    "BOL": {
+      "intermediate_region": "South America",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "BRA": {
+      "intermediate_region": "South America",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "BRB": {
+      "intermediate_region": "Caribbean",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "BRN": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "South-eastern Asia",
+      "subregion": "South-eastern Asia"
+    },
+    "BTN": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "Southern Asia",
+      "subregion": "Southern Asia"
+    },
+    "BVT": {
+      "intermediate_region": "South America",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "BWA": {
+      "intermediate_region": "Southern Africa",
+      "region": "Africa",
+      "sub_region": "Southern Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "CAF": {
+      "intermediate_region": "Middle Africa",
+      "region": "Africa",
+      "sub_region": "Middle Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "CAN": {
+      "intermediate_region": null,
+      "region": "Americas",
+      "sub_region": "Northern America",
+      "subregion": "Northern America"
+    },
+    "CCK": {
+      "intermediate_region": null,
+      "region": "Oceania",
+      "sub_region": "Australia and New Zealand",
+      "subregion": "Australia and New Zealand"
+    },
+    "CHA": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Northern Europe",
+      "subregion": "Northern Europe"
+    },
+    "CHE": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Western Europe",
+      "subregion": "Western Europe"
+    },
+    "CHL": {
+      "intermediate_region": "South America",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "CHN": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "Eastern Asia",
+      "subregion": "Eastern Asia"
+    },
+    "CIV": {
+      "intermediate_region": "Western Africa",
+      "region": "Africa",
+      "sub_region": "Western Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "CMR": {
+      "intermediate_region": "Middle Africa",
+      "region": "Africa",
+      "sub_region": "Middle Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "COD": {
+      "intermediate_region": "Middle Africa",
+      "region": "Africa",
+      "sub_region": "Middle Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "COG": {
+      "intermediate_region": "Middle Africa",
+      "region": "Africa",
+      "sub_region": "Middle Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "COK": {
+      "intermediate_region": null,
+      "region": "Oceania",
+      "sub_region": "Polynesia",
+      "subregion": "Polynesia"
+    },
+    "COL": {
+      "intermediate_region": "South America",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "COM": {
+      "intermediate_region": "Eastern Africa",
+      "region": "Africa",
+      "sub_region": "Eastern Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "CPV": {
+      "intermediate_region": "Western Africa",
+      "region": "Africa",
+      "sub_region": "Western Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "CRI": {
+      "intermediate_region": "Central America",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "CUB": {
+      "intermediate_region": "Caribbean",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "CUW": {
+      "intermediate_region": "Caribbean",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "CXR": {
+      "intermediate_region": null,
+      "region": "Oceania",
+      "sub_region": "Australia and New Zealand",
+      "subregion": "Australia and New Zealand"
+    },
+    "CYM": {
+      "intermediate_region": "Caribbean",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "CYP": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "Western Asia",
+      "subregion": "Western Asia"
+    },
+    "CZE": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Eastern Europe",
+      "subregion": "Eastern Europe"
+    },
+    "DEU": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Western Europe",
+      "subregion": "Western Europe"
+    },
+    "DJI": {
+      "intermediate_region": "Eastern Africa",
+      "region": "Africa",
+      "sub_region": "Eastern Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "DMA": {
+      "intermediate_region": "Caribbean",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "DNK": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Northern Europe",
+      "subregion": "Northern Europe"
+    },
+    "DOM": {
+      "intermediate_region": "Caribbean",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "DZA": {
+      "intermediate_region": null,
+      "region": "Africa",
+      "sub_region": "Northern Africa",
+      "subregion": "Northern Africa"
+    },
+    "ECU": {
+      "intermediate_region": "South America",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "EGY": {
+      "intermediate_region": null,
+      "region": "Africa",
+      "sub_region": "Northern Africa",
+      "subregion": "Northern Africa"
+    },
+    "ERI": {
+      "intermediate_region": "Eastern Africa",
+      "region": "Africa",
+      "sub_region": "Eastern Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "ESH": {
+      "intermediate_region": null,
+      "region": "Africa",
+      "sub_region": "Northern Africa",
+      "subregion": "Northern Africa"
+    },
+    "ESP": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Southern Europe",
+      "subregion": "Southern Europe"
+    },
+    "EST": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Northern Europe",
+      "subregion": "Northern Europe"
+    },
+    "ETH": {
+      "intermediate_region": "Eastern Africa",
+      "region": "Africa",
+      "sub_region": "Eastern Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "FIN": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Northern Europe",
+      "subregion": "Northern Europe"
+    },
+    "FJI": {
+      "intermediate_region": null,
+      "region": "Oceania",
+      "sub_region": "Melanesia",
+      "subregion": "Melanesia"
+    },
+    "FLK": {
+      "intermediate_region": "South America",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "FRA": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Western Europe",
+      "subregion": "Western Europe"
+    },
+    "FRO": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Northern Europe",
+      "subregion": "Northern Europe"
+    },
+    "FSM": {
+      "intermediate_region": null,
+      "region": "Oceania",
+      "sub_region": "Micronesia",
+      "subregion": "Micronesia"
+    },
+    "GAB": {
+      "intermediate_region": "Middle Africa",
+      "region": "Africa",
+      "sub_region": "Middle Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "GBR": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Northern Europe",
+      "subregion": "Northern Europe"
+    },
+    "GEO": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "Western Asia",
+      "subregion": "Western Asia"
+    },
+    "GGY": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Northern Europe",
+      "subregion": "Northern Europe"
+    },
+    "GHA": {
+      "intermediate_region": "Western Africa",
+      "region": "Africa",
+      "sub_region": "Western Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "GIB": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Southern Europe",
+      "subregion": "Southern Europe"
+    },
+    "GIN": {
+      "intermediate_region": "Western Africa",
+      "region": "Africa",
+      "sub_region": "Western Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "GLP": {
+      "intermediate_region": "Caribbean",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "GMB": {
+      "intermediate_region": "Western Africa",
+      "region": "Africa",
+      "sub_region": "Western Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "GNB": {
+      "intermediate_region": "Western Africa",
+      "region": "Africa",
+      "sub_region": "Western Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "GNQ": {
+      "intermediate_region": "Middle Africa",
+      "region": "Africa",
+      "sub_region": "Middle Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "GRC": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Southern Europe",
+      "subregion": "Southern Europe"
+    },
+    "GRD": {
+      "intermediate_region": "Caribbean",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "GRL": {
+      "intermediate_region": null,
+      "region": "Americas",
+      "sub_region": "Northern America",
+      "subregion": "Northern America"
+    },
+    "GTM": {
+      "intermediate_region": "Central America",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "GUF": {
+      "intermediate_region": "South America",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "GUM": {
+      "intermediate_region": null,
+      "region": "Oceania",
+      "sub_region": "Micronesia",
+      "subregion": "Micronesia"
+    },
+    "GUY": {
+      "intermediate_region": "South America",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "HKG": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "Eastern Asia",
+      "subregion": "Eastern Asia"
+    },
+    "HMD": {
+      "intermediate_region": null,
+      "region": "Oceania",
+      "sub_region": "Australia and New Zealand",
+      "subregion": "Australia and New Zealand"
+    },
+    "HND": {
+      "intermediate_region": "Central America",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "HRV": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Southern Europe",
+      "subregion": "Southern Europe"
+    },
+    "HTI": {
+      "intermediate_region": "Caribbean",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "HUN": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Eastern Europe",
+      "subregion": "Eastern Europe"
+    },
+    "IDN": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "South-eastern Asia",
+      "subregion": "South-eastern Asia"
+    },
+    "IMN": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Northern Europe",
+      "subregion": "Northern Europe"
+    },
+    "IND": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "Southern Asia",
+      "subregion": "Southern Asia"
+    },
+    "IOT": {
+      "intermediate_region": "Eastern Africa",
+      "region": "Africa",
+      "sub_region": "Eastern Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "IRL": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Northern Europe",
+      "subregion": "Northern Europe"
+    },
+    "IRN": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "Southern Asia",
+      "subregion": "Southern Asia"
+    },
+    "IRQ": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "Western Asia",
+      "subregion": "Western Asia"
+    },
+    "ISL": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Northern Europe",
+      "subregion": "Northern Europe"
+    },
+    "ISR": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "Western Asia",
+      "subregion": "Western Asia"
+    },
+    "ITA": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Southern Europe",
+      "subregion": "Southern Europe"
+    },
+    "JAM": {
+      "intermediate_region": "Caribbean",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "JEY": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Northern Europe",
+      "subregion": "Northern Europe"
+    },
+    "JOR": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "Western Asia",
+      "subregion": "Western Asia"
+    },
+    "JPN": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "Eastern Asia",
+      "subregion": "Eastern Asia"
+    },
+    "KAZ": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "Central Asia",
+      "subregion": "Central Asia"
+    },
+    "KEN": {
+      "intermediate_region": "Eastern Africa",
+      "region": "Africa",
+      "sub_region": "Eastern Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "KGZ": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "Central Asia",
+      "subregion": "Central Asia"
+    },
+    "KHM": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "South-eastern Asia",
+      "subregion": "South-eastern Asia"
+    },
+    "KIR": {
+      "intermediate_region": null,
+      "region": "Oceania",
+      "sub_region": "Micronesia",
+      "subregion": "Micronesia"
+    },
+    "KNA": {
+      "intermediate_region": "Caribbean",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "KOR": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "Eastern Asia",
+      "subregion": "Eastern Asia"
+    },
+    "KWT": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "Western Asia",
+      "subregion": "Western Asia"
+    },
+    "LAO": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "South-eastern Asia",
+      "subregion": "South-eastern Asia"
+    },
+    "LBN": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "Western Asia",
+      "subregion": "Western Asia"
+    },
+    "LBR": {
+      "intermediate_region": "Western Africa",
+      "region": "Africa",
+      "sub_region": "Western Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "LBY": {
+      "intermediate_region": null,
+      "region": "Africa",
+      "sub_region": "Northern Africa",
+      "subregion": "Northern Africa"
+    },
+    "LCA": {
+      "intermediate_region": "Caribbean",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "LIE": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Western Europe",
+      "subregion": "Western Europe"
+    },
+    "LKA": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "Southern Asia",
+      "subregion": "Southern Asia"
+    },
+    "LSO": {
+      "intermediate_region": "Southern Africa",
+      "region": "Africa",
+      "sub_region": "Southern Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "LTU": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Northern Europe",
+      "subregion": "Northern Europe"
+    },
+    "LUX": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Western Europe",
+      "subregion": "Western Europe"
+    },
+    "LVA": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Northern Europe",
+      "subregion": "Northern Europe"
+    },
+    "MAC": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "Eastern Asia",
+      "subregion": "Eastern Asia"
+    },
+    "MAF": {
+      "intermediate_region": "Caribbean",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "MAR": {
+      "intermediate_region": null,
+      "region": "Africa",
+      "sub_region": "Northern Africa",
+      "subregion": "Northern Africa"
+    },
+    "MCO": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Western Europe",
+      "subregion": "Western Europe"
+    },
+    "MDA": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Eastern Europe",
+      "subregion": "Eastern Europe"
+    },
+    "MDG": {
+      "intermediate_region": "Eastern Africa",
+      "region": "Africa",
+      "sub_region": "Eastern Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "MDV": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "Southern Asia",
+      "subregion": "Southern Asia"
+    },
+    "MEX": {
+      "intermediate_region": "Central America",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "MHL": {
+      "intermediate_region": null,
+      "region": "Oceania",
+      "sub_region": "Micronesia",
+      "subregion": "Micronesia"
+    },
+    "MKD": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Southern Europe",
+      "subregion": "Southern Europe"
+    },
+    "MLI": {
+      "intermediate_region": "Western Africa",
+      "region": "Africa",
+      "sub_region": "Western Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "MLT": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Southern Europe",
+      "subregion": "Southern Europe"
+    },
+    "MMR": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "South-eastern Asia",
+      "subregion": "South-eastern Asia"
+    },
+    "MNE": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Southern Europe",
+      "subregion": "Southern Europe"
+    },
+    "MNG": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "Eastern Asia",
+      "subregion": "Eastern Asia"
+    },
+    "MNP": {
+      "intermediate_region": null,
+      "region": "Oceania",
+      "sub_region": "Micronesia",
+      "subregion": "Micronesia"
+    },
+    "MOZ": {
+      "intermediate_region": "Eastern Africa",
+      "region": "Africa",
+      "sub_region": "Eastern Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "MRT": {
+      "intermediate_region": "Western Africa",
+      "region": "Africa",
+      "sub_region": "Western Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "MSR": {
+      "intermediate_region": "Caribbean",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "MTQ": {
+      "intermediate_region": "Caribbean",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "MUS": {
+      "intermediate_region": "Eastern Africa",
+      "region": "Africa",
+      "sub_region": "Eastern Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "MWI": {
+      "intermediate_region": "Eastern Africa",
+      "region": "Africa",
+      "sub_region": "Eastern Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "MYS": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "South-eastern Asia",
+      "subregion": "South-eastern Asia"
+    },
+    "MYT": {
+      "intermediate_region": "Eastern Africa",
+      "region": "Africa",
+      "sub_region": "Eastern Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "NAM": {
+      "intermediate_region": "Southern Africa",
+      "region": "Africa",
+      "sub_region": "Southern Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "NCL": {
+      "intermediate_region": null,
+      "region": "Oceania",
+      "sub_region": "Melanesia",
+      "subregion": "Melanesia"
+    },
+    "NER": {
+      "intermediate_region": "Western Africa",
+      "region": "Africa",
+      "sub_region": "Western Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "NFK": {
+      "intermediate_region": null,
+      "region": "Oceania",
+      "sub_region": "Australia and New Zealand",
+      "subregion": "Australia and New Zealand"
+    },
+    "NGA": {
+      "intermediate_region": "Western Africa",
+      "region": "Africa",
+      "sub_region": "Western Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "NIC": {
+      "intermediate_region": "Central America",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "NIU": {
+      "intermediate_region": null,
+      "region": "Oceania",
+      "sub_region": "Polynesia",
+      "subregion": "Polynesia"
+    },
+    "NLD": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Western Europe",
+      "subregion": "Western Europe"
+    },
+    "NOR": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Northern Europe",
+      "subregion": "Northern Europe"
+    },
+    "NPL": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "Southern Asia",
+      "subregion": "Southern Asia"
+    },
+    "NRU": {
+      "intermediate_region": null,
+      "region": "Oceania",
+      "sub_region": "Micronesia",
+      "subregion": "Micronesia"
+    },
+    "NZL": {
+      "intermediate_region": null,
+      "region": "Oceania",
+      "sub_region": "Australia and New Zealand",
+      "subregion": "Australia and New Zealand"
+    },
+    "OMN": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "Western Asia",
+      "subregion": "Western Asia"
+    },
+    "PAK": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "Southern Asia",
+      "subregion": "Southern Asia"
+    },
+    "PAN": {
+      "intermediate_region": "Central America",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "PCN": {
+      "intermediate_region": null,
+      "region": "Oceania",
+      "sub_region": "Polynesia",
+      "subregion": "Polynesia"
+    },
+    "PER": {
+      "intermediate_region": "South America",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "PHL": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "South-eastern Asia",
+      "subregion": "South-eastern Asia"
+    },
+    "PLW": {
+      "intermediate_region": null,
+      "region": "Oceania",
+      "sub_region": "Micronesia",
+      "subregion": "Micronesia"
+    },
+    "PNG": {
+      "intermediate_region": null,
+      "region": "Oceania",
+      "sub_region": "Melanesia",
+      "subregion": "Melanesia"
+    },
+    "POL": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Eastern Europe",
+      "subregion": "Eastern Europe"
+    },
+    "PRI": {
+      "intermediate_region": "Caribbean",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "PRK": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "Eastern Asia",
+      "subregion": "Eastern Asia"
+    },
+    "PRT": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Southern Europe",
+      "subregion": "Southern Europe"
+    },
+    "PRY": {
+      "intermediate_region": "South America",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "PSE": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "Western Asia",
+      "subregion": "Western Asia"
+    },
+    "PYF": {
+      "intermediate_region": null,
+      "region": "Oceania",
+      "sub_region": "Polynesia",
+      "subregion": "Polynesia"
+    },
+    "QAT": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "Western Asia",
+      "subregion": "Western Asia"
+    },
+    "REU": {
+      "intermediate_region": "Eastern Africa",
+      "region": "Africa",
+      "sub_region": "Eastern Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "ROU": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Eastern Europe",
+      "subregion": "Eastern Europe"
+    },
+    "RUS": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Eastern Europe",
+      "subregion": "Eastern Europe"
+    },
+    "RWA": {
+      "intermediate_region": "Eastern Africa",
+      "region": "Africa",
+      "sub_region": "Eastern Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "SAU": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "Western Asia",
+      "subregion": "Western Asia"
+    },
+    "SCG": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Southern Europe",
+      "subregion": "Southern Europe"
+    },
+    "SDN": {
+      "intermediate_region": null,
+      "region": "Africa",
+      "sub_region": "Northern Africa",
+      "subregion": "Northern Africa"
+    },
+    "SEN": {
+      "intermediate_region": "Western Africa",
+      "region": "Africa",
+      "sub_region": "Western Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "SGP": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "South-eastern Asia",
+      "subregion": "South-eastern Asia"
+    },
+    "SGS": {
+      "intermediate_region": "South America",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "SHN": {
+      "intermediate_region": "Western Africa",
+      "region": "Africa",
+      "sub_region": "Western Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "SJM": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Northern Europe",
+      "subregion": "Northern Europe"
+    },
+    "SLB": {
+      "intermediate_region": null,
+      "region": "Oceania",
+      "sub_region": "Melanesia",
+      "subregion": "Melanesia"
+    },
+    "SLE": {
+      "intermediate_region": "Western Africa",
+      "region": "Africa",
+      "sub_region": "Western Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "SLV": {
+      "intermediate_region": "Central America",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "SMR": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Southern Europe",
+      "subregion": "Southern Europe"
+    },
+    "SOM": {
+      "intermediate_region": "Eastern Africa",
+      "region": "Africa",
+      "sub_region": "Eastern Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "SPM": {
+      "intermediate_region": null,
+      "region": "Americas",
+      "sub_region": "Northern America",
+      "subregion": "Northern America"
+    },
+    "SRB": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Southern Europe",
+      "subregion": "Southern Europe"
+    },
+    "SSD": {
+      "intermediate_region": "Eastern Africa",
+      "region": "Africa",
+      "sub_region": "Eastern Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "STP": {
+      "intermediate_region": "Middle Africa",
+      "region": "Africa",
+      "sub_region": "Middle Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "SUR": {
+      "intermediate_region": "South America",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "SVK": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Eastern Europe",
+      "subregion": "Eastern Europe"
+    },
+    "SVN": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Southern Europe",
+      "subregion": "Southern Europe"
+    },
+    "SWE": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Northern Europe",
+      "subregion": "Northern Europe"
+    },
+    "SWZ": {
+      "intermediate_region": "Southern Africa",
+      "region": "Africa",
+      "sub_region": "Southern Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "SXM": {
+      "intermediate_region": "Caribbean",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "SYC": {
+      "intermediate_region": "Eastern Africa",
+      "region": "Africa",
+      "sub_region": "Eastern Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "SYR": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "Western Asia",
+      "subregion": "Western Asia"
+    },
+    "TCA": {
+      "intermediate_region": "Caribbean",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "TCD": {
+      "intermediate_region": "Middle Africa",
+      "region": "Africa",
+      "sub_region": "Middle Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "TGO": {
+      "intermediate_region": "Western Africa",
+      "region": "Africa",
+      "sub_region": "Western Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "THA": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "South-eastern Asia",
+      "subregion": "South-eastern Asia"
+    },
+    "TJK": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "Central Asia",
+      "subregion": "Central Asia"
+    },
+    "TKL": {
+      "intermediate_region": null,
+      "region": "Oceania",
+      "sub_region": "Polynesia",
+      "subregion": "Polynesia"
+    },
+    "TKM": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "Central Asia",
+      "subregion": "Central Asia"
+    },
+    "TLS": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "South-eastern Asia",
+      "subregion": "South-eastern Asia"
+    },
+    "TON": {
+      "intermediate_region": null,
+      "region": "Oceania",
+      "sub_region": "Polynesia",
+      "subregion": "Polynesia"
+    },
+    "TTO": {
+      "intermediate_region": "Caribbean",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "TUN": {
+      "intermediate_region": null,
+      "region": "Africa",
+      "sub_region": "Northern Africa",
+      "subregion": "Northern Africa"
+    },
+    "TUR": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "Western Asia",
+      "subregion": "Western Asia"
+    },
+    "TUV": {
+      "intermediate_region": null,
+      "region": "Oceania",
+      "sub_region": "Polynesia",
+      "subregion": "Polynesia"
+    },
+    "TWN": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "Eastern Asia",
+      "subregion": "Eastern Asia"
+    },
+    "TZA": {
+      "intermediate_region": "Eastern Africa",
+      "region": "Africa",
+      "sub_region": "Eastern Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "UGA": {
+      "intermediate_region": "Eastern Africa",
+      "region": "Africa",
+      "sub_region": "Eastern Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "UKR": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Eastern Europe",
+      "subregion": "Eastern Europe"
+    },
+    "UMI": {
+      "intermediate_region": null,
+      "region": "Oceania",
+      "sub_region": "Micronesia",
+      "subregion": "Micronesia"
+    },
+    "URY": {
+      "intermediate_region": "South America",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "USA": {
+      "intermediate_region": null,
+      "region": "Americas",
+      "sub_region": "Northern America",
+      "subregion": "Northern America"
+    },
+    "UZB": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "Central Asia",
+      "subregion": "Central Asia"
+    },
+    "VAT": {
+      "intermediate_region": null,
+      "region": "Europe",
+      "sub_region": "Southern Europe",
+      "subregion": "Southern Europe"
+    },
+    "VCT": {
+      "intermediate_region": "Caribbean",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "VEN": {
+      "intermediate_region": "South America",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "VGB": {
+      "intermediate_region": "Caribbean",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "VIR": {
+      "intermediate_region": "Caribbean",
+      "region": "Americas",
+      "sub_region": "Latin America and the Caribbean",
+      "subregion": "Latin America and the Caribbean"
+    },
+    "VNM": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "South-eastern Asia",
+      "subregion": "South-eastern Asia"
+    },
+    "VUT": {
+      "intermediate_region": null,
+      "region": "Oceania",
+      "sub_region": "Melanesia",
+      "subregion": "Melanesia"
+    },
+    "WLF": {
+      "intermediate_region": null,
+      "region": "Oceania",
+      "sub_region": "Polynesia",
+      "subregion": "Polynesia"
+    },
+    "WSM": {
+      "intermediate_region": null,
+      "region": "Oceania",
+      "sub_region": "Polynesia",
+      "subregion": "Polynesia"
+    },
+    "YEM": {
+      "intermediate_region": null,
+      "region": "Asia",
+      "sub_region": "Western Asia",
+      "subregion": "Western Asia"
+    },
+    "ZAF": {
+      "intermediate_region": "Southern Africa",
+      "region": "Africa",
+      "sub_region": "Southern Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "ZMB": {
+      "intermediate_region": "Eastern Africa",
+      "region": "Africa",
+      "sub_region": "Eastern Africa",
+      "subregion": "Sub-Saharan Africa"
+    },
+    "ZWE": {
+      "intermediate_region": "Eastern Africa",
+      "region": "Africa",
+      "sub_region": "Eastern Africa",
+      "subregion": "Sub-Saharan Africa"
+    }
+  },
+  "groups": {
+    "all": {
+      "Africa": [
+        "AGO",
+        "ATF",
+        "BDI",
+        "BEN",
+        "BFA",
+        "BWA",
+        "CAF",
+        "CIV",
+        "CMR",
+        "COD",
+        "COG",
+        "COM",
+        "CPV",
+        "DJI",
+        "DZA",
+        "EGY",
+        "ERI",
+        "ESH",
+        "ETH",
+        "GAB",
+        "GHA",
+        "GIN",
+        "GMB",
+        "GNB",
+        "GNQ",
+        "IOT",
+        "KEN",
+        "LBR",
+        "LBY",
+        "LSO",
+        "MAR",
+        "MDG",
+        "MLI",
+        "MOZ",
+        "MRT",
+        "MUS",
+        "MWI",
+        "MYT",
+        "NAM",
+        "NER",
+        "NGA",
+        "REU",
+        "RWA",
+        "SDN",
+        "SEN",
+        "SHN",
+        "SLE",
+        "SOM",
+        "SSD",
+        "STP",
+        "SWZ",
+        "SYC",
+        "TCD",
+        "TGO",
+        "TUN",
+        "TZA",
+        "UGA",
+        "ZAF",
+        "ZMB",
+        "ZWE"
+      ],
+      "Americas": [
+        "ABW",
+        "AIA",
+        "ANT",
+        "ARG",
+        "ATG",
+        "BES",
+        "BHS",
+        "BLM",
+        "BLZ",
+        "BMU",
+        "BOL",
+        "BRA",
+        "BRB",
+        "BVT",
+        "CAN",
+        "CHL",
+        "COL",
+        "CRI",
+        "CUB",
+        "CUW",
+        "CYM",
+        "DMA",
+        "DOM",
+        "ECU",
+        "FLK",
+        "GLP",
+        "GRD",
+        "GRL",
+        "GTM",
+        "GUF",
+        "GUY",
+        "HND",
+        "HTI",
+        "JAM",
+        "KNA",
+        "LCA",
+        "MAF",
+        "MEX",
+        "MSR",
+        "MTQ",
+        "NIC",
+        "PAN",
+        "PER",
+        "PRI",
+        "PRY",
+        "SGS",
+        "SLV",
+        "SPM",
+        "SUR",
+        "SXM",
+        "TCA",
+        "TTO",
+        "URY",
+        "USA",
+        "VCT",
+        "VEN",
+        "VGB",
+        "VIR"
+      ],
+      "Asia": [
+        "AFG",
+        "ARE",
+        "ARM",
+        "AZE",
+        "BGD",
+        "BHR",
+        "BRN",
+        "BTN",
+        "CHN",
+        "CYP",
+        "GEO",
+        "HKG",
+        "IDN",
+        "IND",
+        "IRN",
+        "IRQ",
+        "ISR",
+        "JOR",
+        "JPN",
+        "KAZ",
+        "KGZ",
+        "KHM",
+        "KOR",
+        "KWT",
+        "LAO",
+        "LBN",
+        "LKA",
+        "MAC",
+        "MDV",
+        "MMR",
+        "MNG",
+        "MYS",
+        "NPL",
+        "OMN",
+        "PAK",
+        "PHL",
+        "PRK",
+        "PSE",
+        "QAT",
+        "SAU",
+        "SGP",
+        "SYR",
+        "THA",
+        "TJK",
+        "TKM",
+        "TLS",
+        "TUR",
+        "TWN",
+        "UZB",
+        "VNM",
+        "YEM"
+      ],
+      "Australia and New Zealand": [
+        "AUS",
+        "CCK",
+        "CXR",
+        "HMD",
+        "NFK",
+        "NZL"
+      ],
+      "Caribbean": [
+        "ABW",
+        "AIA",
+        "ANT",
+        "ATG",
+        "BES",
+        "BHS",
+        "BLM",
+        "BRB",
+        "CUB",
+        "CUW",
+        "CYM",
+        "DMA",
+        "DOM",
+        "GLP",
+        "GRD",
+        "HTI",
+        "JAM",
+        "KNA",
+        "LCA",
+        "MAF",
+        "MSR",
+        "MTQ",
+        "PRI",
+        "SXM",
+        "TCA",
+        "TTO",
+        "VCT",
+        "VGB",
+        "VIR"
+      ],
+      "Central America": [
+        "BLZ",
+        "CRI",
+        "GTM",
+        "HND",
+        "MEX",
+        "NIC",
+        "PAN",
+        "SLV"
+      ],
+      "Central Asia": [
+        "KAZ",
+        "KGZ",
+        "TJK",
+        "TKM",
+        "UZB"
+      ],
+      "Eastern Africa": [
+        "ATF",
+        "BDI",
+        "COM",
+        "DJI",
+        "ERI",
+        "ETH",
+        "IOT",
+        "KEN",
+        "MDG",
+        "MOZ",
+        "MUS",
+        "MWI",
+        "MYT",
+        "REU",
+        "RWA",
+        "SOM",
+        "SSD",
+        "SYC",
+        "TZA",
+        "UGA",
+        "ZMB",
+        "ZWE"
+      ],
+      "Eastern Asia": [
+        "CHN",
+        "HKG",
+        "JPN",
+        "KOR",
+        "MAC",
+        "MNG",
+        "PRK",
+        "TWN"
+      ],
+      "Eastern Europe": [
+        "BGR",
+        "BLR",
+        "CZE",
+        "HUN",
+        "MDA",
+        "POL",
+        "ROU",
+        "RUS",
+        "SVK",
+        "UKR"
+      ],
+      "Europe": [
+        "ALA",
+        "ALB",
+        "AND",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "BLR",
+        "CHA",
+        "CHE",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "FRO",
+        "GBR",
+        "GGY",
+        "GIB",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IMN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "JEY",
+        "LIE",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MCO",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "RUS",
+        "SCG",
+        "SJM",
+        "SMR",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "UKR",
+        "VAT"
+      ],
+      "Latin America and the Caribbean": [
+        "ABW",
+        "AIA",
+        "ANT",
+        "ARG",
+        "ATG",
+        "BES",
+        "BHS",
+        "BLM",
+        "BLZ",
+        "BOL",
+        "BRA",
+        "BRB",
+        "BVT",
+        "CHL",
+        "COL",
+        "CRI",
+        "CUB",
+        "CUW",
+        "CYM",
+        "DMA",
+        "DOM",
+        "ECU",
+        "FLK",
+        "GLP",
+        "GRD",
+        "GTM",
+        "GUF",
+        "GUY",
+        "HND",
+        "HTI",
+        "JAM",
+        "KNA",
+        "LCA",
+        "MAF",
+        "MEX",
+        "MSR",
+        "MTQ",
+        "NIC",
+        "PAN",
+        "PER",
+        "PRI",
+        "PRY",
+        "SGS",
+        "SLV",
+        "SUR",
+        "SXM",
+        "TCA",
+        "TTO",
+        "URY",
+        "VCT",
+        "VEN",
+        "VGB",
+        "VIR"
+      ],
+      "Melanesia": [
+        "FJI",
+        "NCL",
+        "PNG",
+        "SLB",
+        "VUT"
+      ],
+      "Micronesia": [
+        "FSM",
+        "GUM",
+        "KIR",
+        "MHL",
+        "MNP",
+        "NRU",
+        "PLW",
+        "UMI"
+      ],
+      "Middle Africa": [
+        "AGO",
+        "CAF",
+        "CMR",
+        "COD",
+        "COG",
+        "GAB",
+        "GNQ",
+        "STP",
+        "TCD"
+      ],
+      "Northern Africa": [
+        "DZA",
+        "EGY",
+        "ESH",
+        "LBY",
+        "MAR",
+        "SDN",
+        "TUN"
+      ],
+      "Northern America": [
+        "BMU",
+        "CAN",
+        "GRL",
+        "SPM",
+        "USA"
+      ],
+      "Northern Europe": [
+        "ALA",
+        "CHA",
+        "DNK",
+        "EST",
+        "FIN",
+        "FRO",
+        "GBR",
+        "GGY",
+        "IMN",
+        "IRL",
+        "ISL",
+        "JEY",
+        "LTU",
+        "LVA",
+        "NOR",
+        "SJM",
+        "SWE"
+      ],
+      "Oceania": [
+        "ASM",
+        "AUS",
+        "CCK",
+        "COK",
+        "CXR",
+        "FJI",
+        "FSM",
+        "GUM",
+        "HMD",
+        "KIR",
+        "MHL",
+        "MNP",
+        "NCL",
+        "NFK",
+        "NIU",
+        "NRU",
+        "NZL",
+        "PCN",
+        "PLW",
+        "PNG",
+        "PYF",
+        "SLB",
+        "TKL",
+        "TON",
+        "TUV",
+        "UMI",
+        "VUT",
+        "WLF",
+        "WSM"
+      ],
+      "Polynesia": [
+        "ASM",
+        "COK",
+        "NIU",
+        "PCN",
+        "PYF",
+        "TKL",
+        "TON",
+        "TUV",
+        "WLF",
+        "WSM"
+      ],
+      "South America": [
+        "ARG",
+        "BOL",
+        "BRA",
+        "BVT",
+        "CHL",
+        "COL",
+        "ECU",
+        "FLK",
+        "GUF",
+        "GUY",
+        "PER",
+        "PRY",
+        "SGS",
+        "SUR",
+        "URY",
+        "VEN"
+      ],
+      "South-eastern Asia": [
+        "BRN",
+        "IDN",
+        "KHM",
+        "LAO",
+        "MMR",
+        "MYS",
+        "PHL",
+        "SGP",
+        "THA",
+        "TLS",
+        "VNM"
+      ],
+      "Southern Africa": [
+        "BWA",
+        "LSO",
+        "NAM",
+        "SWZ",
+        "ZAF"
+      ],
+      "Southern Asia": [
+        "AFG",
+        "BGD",
+        "BTN",
+        "IND",
+        "IRN",
+        "LKA",
+        "MDV",
+        "NPL",
+        "PAK"
+      ],
+      "Southern Europe": [
+        "ALB",
+        "AND",
+        "BIH",
+        "ESP",
+        "GIB",
+        "GRC",
+        "HRV",
+        "ITA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "PRT",
+        "SCG",
+        "SMR",
+        "SRB",
+        "SVN",
+        "VAT"
+      ],
+      "Sub-Saharan Africa": [
+        "AGO",
+        "ATF",
+        "BDI",
+        "BEN",
+        "BFA",
+        "BWA",
+        "CAF",
+        "CIV",
+        "CMR",
+        "COD",
+        "COG",
+        "COM",
+        "CPV",
+        "DJI",
+        "ERI",
+        "ETH",
+        "GAB",
+        "GHA",
+        "GIN",
+        "GMB",
+        "GNB",
+        "GNQ",
+        "IOT",
+        "KEN",
+        "LBR",
+        "LSO",
+        "MDG",
+        "MLI",
+        "MOZ",
+        "MRT",
+        "MUS",
+        "MWI",
+        "MYT",
+        "NAM",
+        "NER",
+        "NGA",
+        "REU",
+        "RWA",
+        "SEN",
+        "SHN",
+        "SLE",
+        "SOM",
+        "SSD",
+        "STP",
+        "SWZ",
+        "SYC",
+        "TCD",
+        "TGO",
+        "TZA",
+        "UGA",
+        "ZAF",
+        "ZMB",
+        "ZWE"
+      ],
+      "Western Africa": [
+        "BEN",
+        "BFA",
+        "CIV",
+        "CPV",
+        "GHA",
+        "GIN",
+        "GMB",
+        "GNB",
+        "LBR",
+        "MLI",
+        "MRT",
+        "NER",
+        "NGA",
+        "SEN",
+        "SHN",
+        "SLE",
+        "TGO"
+      ],
+      "Western Asia": [
+        "ARE",
+        "ARM",
+        "AZE",
+        "BHR",
+        "CYP",
+        "GEO",
+        "IRQ",
+        "ISR",
+        "JOR",
+        "KWT",
+        "LBN",
+        "OMN",
+        "PSE",
+        "QAT",
+        "SAU",
+        "SYR",
+        "TUR",
+        "YEM"
+      ],
+      "Western Europe": [
+        "AUT",
+        "BEL",
+        "CHE",
+        "DEU",
+        "FRA",
+        "LIE",
+        "LUX",
+        "MCO",
+        "NLD"
+      ]
+    },
+    "intermediate_region": {
+      "Caribbean": [
+        "ABW",
+        "AIA",
+        "ANT",
+        "ATG",
+        "BES",
+        "BHS",
+        "BLM",
+        "BRB",
+        "CUB",
+        "CUW",
+        "CYM",
+        "DMA",
+        "DOM",
+        "GLP",
+        "GRD",
+        "HTI",
+        "JAM",
+        "KNA",
+        "LCA",
+        "MAF",
+        "MSR",
+        "MTQ",
+        "PRI",
+        "SXM",
+        "TCA",
+        "TTO",
+        "VCT",
+        "VGB",
+        "VIR"
+      ],
+      "Central America": [
+        "BLZ",
+        "CRI",
+        "GTM",
+        "HND",
+        "MEX",
+        "NIC",
+        "PAN",
+        "SLV"
+      ],
+      "Eastern Africa": [
+        "ATF",
+        "BDI",
+        "COM",
+        "DJI",
+        "ERI",
+        "ETH",
+        "IOT",
+        "KEN",
+        "MDG",
+        "MOZ",
+        "MUS",
+        "MWI",
+        "MYT",
+        "REU",
+        "RWA",
+        "SOM",
+        "SSD",
+        "SYC",
+        "TZA",
+        "UGA",
+        "ZMB",
+        "ZWE"
+      ],
+      "Middle Africa": [
+        "AGO",
+        "CAF",
+        "CMR",
+        "COD",
+        "COG",
+        "GAB",
+        "GNQ",
+        "STP",
+        "TCD"
+      ],
+      "South America": [
+        "ARG",
+        "BOL",
+        "BRA",
+        "BVT",
+        "CHL",
+        "COL",
+        "ECU",
+        "FLK",
+        "GUF",
+        "GUY",
+        "PER",
+        "PRY",
+        "SGS",
+        "SUR",
+        "URY",
+        "VEN"
+      ],
+      "Southern Africa": [
+        "BWA",
+        "LSO",
+        "NAM",
+        "SWZ",
+        "ZAF"
+      ],
+      "Western Africa": [
+        "BEN",
+        "BFA",
+        "CIV",
+        "CPV",
+        "GHA",
+        "GIN",
+        "GMB",
+        "GNB",
+        "LBR",
+        "MLI",
+        "MRT",
+        "NER",
+        "NGA",
+        "SEN",
+        "SHN",
+        "SLE",
+        "TGO"
+      ]
+    },
+    "region": {
+      "Africa": [
+        "AGO",
+        "ATF",
+        "BDI",
+        "BEN",
+        "BFA",
+        "BWA",
+        "CAF",
+        "CIV",
+        "CMR",
+        "COD",
+        "COG",
+        "COM",
+        "CPV",
+        "DJI",
+        "DZA",
+        "EGY",
+        "ERI",
+        "ESH",
+        "ETH",
+        "GAB",
+        "GHA",
+        "GIN",
+        "GMB",
+        "GNB",
+        "GNQ",
+        "IOT",
+        "KEN",
+        "LBR",
+        "LBY",
+        "LSO",
+        "MAR",
+        "MDG",
+        "MLI",
+        "MOZ",
+        "MRT",
+        "MUS",
+        "MWI",
+        "MYT",
+        "NAM",
+        "NER",
+        "NGA",
+        "REU",
+        "RWA",
+        "SDN",
+        "SEN",
+        "SHN",
+        "SLE",
+        "SOM",
+        "SSD",
+        "STP",
+        "SWZ",
+        "SYC",
+        "TCD",
+        "TGO",
+        "TUN",
+        "TZA",
+        "UGA",
+        "ZAF",
+        "ZMB",
+        "ZWE"
+      ],
+      "Americas": [
+        "ABW",
+        "AIA",
+        "ANT",
+        "ARG",
+        "ATG",
+        "BES",
+        "BHS",
+        "BLM",
+        "BLZ",
+        "BMU",
+        "BOL",
+        "BRA",
+        "BRB",
+        "BVT",
+        "CAN",
+        "CHL",
+        "COL",
+        "CRI",
+        "CUB",
+        "CUW",
+        "CYM",
+        "DMA",
+        "DOM",
+        "ECU",
+        "FLK",
+        "GLP",
+        "GRD",
+        "GRL",
+        "GTM",
+        "GUF",
+        "GUY",
+        "HND",
+        "HTI",
+        "JAM",
+        "KNA",
+        "LCA",
+        "MAF",
+        "MEX",
+        "MSR",
+        "MTQ",
+        "NIC",
+        "PAN",
+        "PER",
+        "PRI",
+        "PRY",
+        "SGS",
+        "SLV",
+        "SPM",
+        "SUR",
+        "SXM",
+        "TCA",
+        "TTO",
+        "URY",
+        "USA",
+        "VCT",
+        "VEN",
+        "VGB",
+        "VIR"
+      ],
+      "Asia": [
+        "AFG",
+        "ARE",
+        "ARM",
+        "AZE",
+        "BGD",
+        "BHR",
+        "BRN",
+        "BTN",
+        "CHN",
+        "CYP",
+        "GEO",
+        "HKG",
+        "IDN",
+        "IND",
+        "IRN",
+        "IRQ",
+        "ISR",
+        "JOR",
+        "JPN",
+        "KAZ",
+        "KGZ",
+        "KHM",
+        "KOR",
+        "KWT",
+        "LAO",
+        "LBN",
+        "LKA",
+        "MAC",
+        "MDV",
+        "MMR",
+        "MNG",
+        "MYS",
+        "NPL",
+        "OMN",
+        "PAK",
+        "PHL",
+        "PRK",
+        "PSE",
+        "QAT",
+        "SAU",
+        "SGP",
+        "SYR",
+        "THA",
+        "TJK",
+        "TKM",
+        "TLS",
+        "TUR",
+        "TWN",
+        "UZB",
+        "VNM",
+        "YEM"
+      ],
+      "Europe": [
+        "ALA",
+        "ALB",
+        "AND",
+        "AUT",
+        "BEL",
+        "BGR",
+        "BIH",
+        "BLR",
+        "CHA",
+        "CHE",
+        "CZE",
+        "DEU",
+        "DNK",
+        "ESP",
+        "EST",
+        "FIN",
+        "FRA",
+        "FRO",
+        "GBR",
+        "GGY",
+        "GIB",
+        "GRC",
+        "HRV",
+        "HUN",
+        "IMN",
+        "IRL",
+        "ISL",
+        "ITA",
+        "JEY",
+        "LIE",
+        "LTU",
+        "LUX",
+        "LVA",
+        "MCO",
+        "MDA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "NLD",
+        "NOR",
+        "POL",
+        "PRT",
+        "ROU",
+        "RUS",
+        "SCG",
+        "SJM",
+        "SMR",
+        "SRB",
+        "SVK",
+        "SVN",
+        "SWE",
+        "UKR",
+        "VAT"
+      ],
+      "Oceania": [
+        "ASM",
+        "AUS",
+        "CCK",
+        "COK",
+        "CXR",
+        "FJI",
+        "FSM",
+        "GUM",
+        "HMD",
+        "KIR",
+        "MHL",
+        "MNP",
+        "NCL",
+        "NFK",
+        "NIU",
+        "NRU",
+        "NZL",
+        "PCN",
+        "PLW",
+        "PNG",
+        "PYF",
+        "SLB",
+        "TKL",
+        "TON",
+        "TUV",
+        "UMI",
+        "VUT",
+        "WLF",
+        "WSM"
+      ]
+    },
+    "sub_region": {
+      "Australia and New Zealand": [
+        "AUS",
+        "CCK",
+        "CXR",
+        "HMD",
+        "NFK",
+        "NZL"
+      ],
+      "Central Asia": [
+        "KAZ",
+        "KGZ",
+        "TJK",
+        "TKM",
+        "UZB"
+      ],
+      "Eastern Africa": [
+        "ATF",
+        "BDI",
+        "COM",
+        "DJI",
+        "ERI",
+        "ETH",
+        "IOT",
+        "KEN",
+        "MDG",
+        "MOZ",
+        "MUS",
+        "MWI",
+        "MYT",
+        "REU",
+        "RWA",
+        "SOM",
+        "SSD",
+        "SYC",
+        "TZA",
+        "UGA",
+        "ZMB",
+        "ZWE"
+      ],
+      "Eastern Asia": [
+        "CHN",
+        "HKG",
+        "JPN",
+        "KOR",
+        "MAC",
+        "MNG",
+        "PRK",
+        "TWN"
+      ],
+      "Eastern Europe": [
+        "BGR",
+        "BLR",
+        "CZE",
+        "HUN",
+        "MDA",
+        "POL",
+        "ROU",
+        "RUS",
+        "SVK",
+        "UKR"
+      ],
+      "Latin America and the Caribbean": [
+        "ABW",
+        "AIA",
+        "ANT",
+        "ARG",
+        "ATG",
+        "BES",
+        "BHS",
+        "BLM",
+        "BLZ",
+        "BOL",
+        "BRA",
+        "BRB",
+        "BVT",
+        "CHL",
+        "COL",
+        "CRI",
+        "CUB",
+        "CUW",
+        "CYM",
+        "DMA",
+        "DOM",
+        "ECU",
+        "FLK",
+        "GLP",
+        "GRD",
+        "GTM",
+        "GUF",
+        "GUY",
+        "HND",
+        "HTI",
+        "JAM",
+        "KNA",
+        "LCA",
+        "MAF",
+        "MEX",
+        "MSR",
+        "MTQ",
+        "NIC",
+        "PAN",
+        "PER",
+        "PRI",
+        "PRY",
+        "SGS",
+        "SLV",
+        "SUR",
+        "SXM",
+        "TCA",
+        "TTO",
+        "URY",
+        "VCT",
+        "VEN",
+        "VGB",
+        "VIR"
+      ],
+      "Melanesia": [
+        "FJI",
+        "NCL",
+        "PNG",
+        "SLB",
+        "VUT"
+      ],
+      "Micronesia": [
+        "FSM",
+        "GUM",
+        "KIR",
+        "MHL",
+        "MNP",
+        "NRU",
+        "PLW",
+        "UMI"
+      ],
+      "Middle Africa": [
+        "AGO",
+        "CAF",
+        "CMR",
+        "COD",
+        "COG",
+        "GAB",
+        "GNQ",
+        "STP",
+        "TCD"
+      ],
+      "Northern Africa": [
+        "DZA",
+        "EGY",
+        "ESH",
+        "LBY",
+        "MAR",
+        "SDN",
+        "TUN"
+      ],
+      "Northern America": [
+        "BMU",
+        "CAN",
+        "GRL",
+        "SPM",
+        "USA"
+      ],
+      "Northern Europe": [
+        "ALA",
+        "CHA",
+        "DNK",
+        "EST",
+        "FIN",
+        "FRO",
+        "GBR",
+        "GGY",
+        "IMN",
+        "IRL",
+        "ISL",
+        "JEY",
+        "LTU",
+        "LVA",
+        "NOR",
+        "SJM",
+        "SWE"
+      ],
+      "Polynesia": [
+        "ASM",
+        "COK",
+        "NIU",
+        "PCN",
+        "PYF",
+        "TKL",
+        "TON",
+        "TUV",
+        "WLF",
+        "WSM"
+      ],
+      "South-eastern Asia": [
+        "BRN",
+        "IDN",
+        "KHM",
+        "LAO",
+        "MMR",
+        "MYS",
+        "PHL",
+        "SGP",
+        "THA",
+        "TLS",
+        "VNM"
+      ],
+      "Southern Africa": [
+        "BWA",
+        "LSO",
+        "NAM",
+        "SWZ",
+        "ZAF"
+      ],
+      "Southern Asia": [
+        "AFG",
+        "BGD",
+        "BTN",
+        "IND",
+        "IRN",
+        "LKA",
+        "MDV",
+        "NPL",
+        "PAK"
+      ],
+      "Southern Europe": [
+        "ALB",
+        "AND",
+        "BIH",
+        "ESP",
+        "GIB",
+        "GRC",
+        "HRV",
+        "ITA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "PRT",
+        "SCG",
+        "SMR",
+        "SRB",
+        "SVN",
+        "VAT"
+      ],
+      "Western Africa": [
+        "BEN",
+        "BFA",
+        "CIV",
+        "CPV",
+        "GHA",
+        "GIN",
+        "GMB",
+        "GNB",
+        "LBR",
+        "MLI",
+        "MRT",
+        "NER",
+        "NGA",
+        "SEN",
+        "SHN",
+        "SLE",
+        "TGO"
+      ],
+      "Western Asia": [
+        "ARE",
+        "ARM",
+        "AZE",
+        "BHR",
+        "CYP",
+        "GEO",
+        "IRQ",
+        "ISR",
+        "JOR",
+        "KWT",
+        "LBN",
+        "OMN",
+        "PSE",
+        "QAT",
+        "SAU",
+        "SYR",
+        "TUR",
+        "YEM"
+      ],
+      "Western Europe": [
+        "AUT",
+        "BEL",
+        "CHE",
+        "DEU",
+        "FRA",
+        "LIE",
+        "LUX",
+        "MCO",
+        "NLD"
+      ]
+    },
+    "subregion": {
+      "Australia and New Zealand": [
+        "AUS",
+        "CCK",
+        "CXR",
+        "HMD",
+        "NFK",
+        "NZL"
+      ],
+      "Central Asia": [
+        "KAZ",
+        "KGZ",
+        "TJK",
+        "TKM",
+        "UZB"
+      ],
+      "Eastern Asia": [
+        "CHN",
+        "HKG",
+        "JPN",
+        "KOR",
+        "MAC",
+        "MNG",
+        "PRK",
+        "TWN"
+      ],
+      "Eastern Europe": [
+        "BGR",
+        "BLR",
+        "CZE",
+        "HUN",
+        "MDA",
+        "POL",
+        "ROU",
+        "RUS",
+        "SVK",
+        "UKR"
+      ],
+      "Latin America and the Caribbean": [
+        "ABW",
+        "AIA",
+        "ANT",
+        "ARG",
+        "ATG",
+        "BES",
+        "BHS",
+        "BLM",
+        "BLZ",
+        "BOL",
+        "BRA",
+        "BRB",
+        "BVT",
+        "CHL",
+        "COL",
+        "CRI",
+        "CUB",
+        "CUW",
+        "CYM",
+        "DMA",
+        "DOM",
+        "ECU",
+        "FLK",
+        "GLP",
+        "GRD",
+        "GTM",
+        "GUF",
+        "GUY",
+        "HND",
+        "HTI",
+        "JAM",
+        "KNA",
+        "LCA",
+        "MAF",
+        "MEX",
+        "MSR",
+        "MTQ",
+        "NIC",
+        "PAN",
+        "PER",
+        "PRI",
+        "PRY",
+        "SGS",
+        "SLV",
+        "SUR",
+        "SXM",
+        "TCA",
+        "TTO",
+        "URY",
+        "VCT",
+        "VEN",
+        "VGB",
+        "VIR"
+      ],
+      "Melanesia": [
+        "FJI",
+        "NCL",
+        "PNG",
+        "SLB",
+        "VUT"
+      ],
+      "Micronesia": [
+        "FSM",
+        "GUM",
+        "KIR",
+        "MHL",
+        "MNP",
+        "NRU",
+        "PLW",
+        "UMI"
+      ],
+      "Northern Africa": [
+        "DZA",
+        "EGY",
+        "ESH",
+        "LBY",
+        "MAR",
+        "SDN",
+        "TUN"
+      ],
+      "Northern America": [
+        "BMU",
+        "CAN",
+        "GRL",
+        "SPM",
+        "USA"
+      ],
+      "Northern Europe": [
+        "ALA",
+        "CHA",
+        "DNK",
+        "EST",
+        "FIN",
+        "FRO",
+        "GBR",
+        "GGY",
+        "IMN",
+        "IRL",
+        "ISL",
+        "JEY",
+        "LTU",
+        "LVA",
+        "NOR",
+        "SJM",
+        "SWE"
+      ],
+      "Polynesia": [
+        "ASM",
+        "COK",
+        "NIU",
+        "PCN",
+        "PYF",
+        "TKL",
+        "TON",
+        "TUV",
+        "WLF",
+        "WSM"
+      ],
+      "South-eastern Asia": [
+        "BRN",
+        "IDN",
+        "KHM",
+        "LAO",
+        "MMR",
+        "MYS",
+        "PHL",
+        "SGP",
+        "THA",
+        "TLS",
+        "VNM"
+      ],
+      "Southern Asia": [
+        "AFG",
+        "BGD",
+        "BTN",
+        "IND",
+        "IRN",
+        "LKA",
+        "MDV",
+        "NPL",
+        "PAK"
+      ],
+      "Southern Europe": [
+        "ALB",
+        "AND",
+        "BIH",
+        "ESP",
+        "GIB",
+        "GRC",
+        "HRV",
+        "ITA",
+        "MKD",
+        "MLT",
+        "MNE",
+        "PRT",
+        "SCG",
+        "SMR",
+        "SRB",
+        "SVN",
+        "VAT"
+      ],
+      "Sub-Saharan Africa": [
+        "AGO",
+        "ATF",
+        "BDI",
+        "BEN",
+        "BFA",
+        "BWA",
+        "CAF",
+        "CIV",
+        "CMR",
+        "COD",
+        "COG",
+        "COM",
+        "CPV",
+        "DJI",
+        "ERI",
+        "ETH",
+        "GAB",
+        "GHA",
+        "GIN",
+        "GMB",
+        "GNB",
+        "GNQ",
+        "IOT",
+        "KEN",
+        "LBR",
+        "LSO",
+        "MDG",
+        "MLI",
+        "MOZ",
+        "MRT",
+        "MUS",
+        "MWI",
+        "MYT",
+        "NAM",
+        "NER",
+        "NGA",
+        "REU",
+        "RWA",
+        "SEN",
+        "SHN",
+        "SLE",
+        "SOM",
+        "SSD",
+        "STP",
+        "SWZ",
+        "SYC",
+        "TCD",
+        "TGO",
+        "TZA",
+        "UGA",
+        "ZAF",
+        "ZMB",
+        "ZWE"
+      ],
+      "Western Asia": [
+        "ARE",
+        "ARM",
+        "AZE",
+        "BHR",
+        "CYP",
+        "GEO",
+        "IRQ",
+        "ISR",
+        "JOR",
+        "KWT",
+        "LBN",
+        "OMN",
+        "PSE",
+        "QAT",
+        "SAU",
+        "SYR",
+        "TUR",
+        "YEM"
+      ],
+      "Western Europe": [
+        "AUT",
+        "BEL",
+        "CHE",
+        "DEU",
+        "FRA",
+        "LIE",
+        "LUX",
+        "MCO",
+        "NLD"
+      ]
+    }
+  },
+  "source_url": "https://unstats.un.org/unsd/methodology/m49/overview/"
+}

@@ -1,10 +1,13 @@
 import plotly.express as px
 import streamlit as st
 
-from config import DATA_PATH
-from data import load_data, filter_country_data
-from components import render_data_sources
+from config import DATA_PATH, TIME_SERIES_INDICATORS
+from data import load_data, filter_country_data, prepare_timeseries_data
+from components import render_data_sources, render_timeseries_section
 
+#-----------------------------
+# Page setup
+#-----------------------------
 st.set_page_config(
     page_title="Time Series",
     page_icon="📈",
@@ -13,7 +16,6 @@ st.set_page_config(
 
 st.title("Macro Statistics Viewer: Time Series")
 render_data_sources()
-
 
 #-----------------------------
 # Load data
@@ -41,78 +43,33 @@ df_selected = filter_country_data(
     year_range=selected_year_range,
 )
 
-df_plot = df_selected[["iso3", "area", "year", "gdp_per_capita_2015"]].dropna().copy()
-df_plot = df_plot.sort_values(["area", "year"]).copy()
-
-if df_plot.empty:
-    st.warning("No data available for the selected countries and years.")
-    st.stop()
-
-df_plot["gdp_growth_percent"] = (
-    df_plot.groupby("area")["gdp_per_capita_2015"].pct_change() * 100
-)
-
 #-----------------------------
-# Tool selection
+# Render time series sections
 #-----------------------------
-option_map = {
-    0: "Level",
-    1: "Log Scale",
-    2: "Growth Rate",
-}
-selection = st.segmented_control(
-    "Tool",
-    options=option_map.keys(),
-    format_func=lambda option: option_map[option],
-    selection_mode="single",
-)
+variables = [
+    "gdp_per_capita_2015",
+    "population_total",
+    "crop_land_ha",
+    "share_irrigated_percent",
+    "agri_labor",
+    "fertilizer_consumption_kg_per_ha",
+]
 
-#-----------------------------
-# Create line plot for GDP per capita
-#-----------------------------
-if selection == 2:
-    fig = px.line(
-        df_plot,
-        x="year",
-        y="gdp_growth_percent",
-        color="area",
-        markers=True,
-        title="GDP per Capita Growth Rate (%)",
-    )
+for row_start in range(0, len(variables), 2):
+    cols = st.columns(2, border=True)
+    row_variables = variables[row_start:row_start + 2]
 
-    fig.update_yaxes(title="Growth rate (%)", linecolor="white", gridcolor="#E8EFE6")
+    for col, variable in zip(cols, row_variables):
+        indicator_info = TIME_SERIES_INDICATORS[variable]
+        df_plot, growth_col = prepare_timeseries_data(df_selected, variable)
 
-    fig.update_traces(
-        hovertemplate=
-            "Country: %{fullData.name}<br>"
-            "Year: %{x}<br>"
-            "Growth rate: %{y:.2f}%<br>"
-            "<extra></extra>"
-    )
+        if df_plot.empty:
+            continue
 
-else:
-    fig = px.line(
-        df_plot,
-        x="year",
-        y="gdp_per_capita_2015",
-        color="area",
-        markers=True,
-        title="GDP per Capita (2015 USD)",
-    )
-
-    if selection == 1:
-        fig.update_yaxes(type="log", title="GDP per capita (log scale)", linecolor="white", gridcolor="#E8EFE6")
-    else:
-        fig.update_yaxes(type="linear", title="GDP per capita (2015 USD)", linecolor="white", gridcolor="#E8EFE6", gridwidth=1)
-
-    fig.update_traces(
-        hovertemplate=
-            "Country: %{fullData.name}<br>"
-            "Year: %{x}<br>"
-            "GDP per capita: %{y:,.0f}<br>"
-            "<extra></extra>"
-    )
-
-fig.update_xaxes(title="Year", linecolor="white")
-
-st.plotly_chart(fig, use_container_width=True)
+        with col:
+            render_timeseries_section(
+                df_plot=df_plot,
+                variable=variable,
+                growth_col=growth_col,
+                indicator_info=indicator_info,
+            )

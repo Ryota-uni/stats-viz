@@ -10,7 +10,6 @@ from components import render_data_sources, render_timeseries_section
 #-----------------------------
 st.set_page_config(
     page_title="Time Series",
-    page_icon="📈",
     layout="wide",
 )
 
@@ -53,6 +52,7 @@ variables = [
     "share_irrigated_percent",
     "agri_labor",
     "fertilizer_consumption_kg_per_ha",
+    "cereal_yield_kg_per_ha",
 ]
 
 for row_start in range(0, len(variables), 2):
